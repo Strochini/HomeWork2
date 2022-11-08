@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        double dog = 8;
+        double dog = 8.0;
         System.out.println("dog " + dog);
         var cat = 3.6;
         System.out.println("cat " + cat);
